@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    line-height: 1.25;
+    background-color: lavenderblush;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#site-name {
+    color: grey;
+    letter-spacing: 1.5px;
+    margin:0;
+    border-radius: 5px;
+}
+
+#header {
+    background-color: lavender;
+    letter-spacing: 2px;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+a:visited,
+#sidenar a:visited {
+    color:indianred;
+}
+
+a:hover {
+    color:darkslateblue;
+}
